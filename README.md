@@ -6,10 +6,6 @@ This repositroy contains files to process data in ``PySpark`` using ``Python`` a
 
 All the queries are automatically ``logged`` in the ``query_logs`` file.
 
-The repo has been created from [Week-5 Mini-Project](https://github.com/nogibjj/IDS-706_rg361_week-5) and modified as per requirements.
-
-Created on on 05-Nov-2023
-
 ## Overview
 
 The repository has the ``main.py`` file which makes use of the files in the mylib folder to perform data processing operations using PySpark. The main.py file can be interacted via ``CLI`` (Command Line Interface) by the user.
