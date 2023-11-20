@@ -4,7 +4,7 @@
 
 This repositroy contains files to process data in ``PySpark`` using ``Python`` and ``CLI``
 
-All the queries are automatically ``logged`` in the ``query_logs`` file.
+All the queries are automatically ``logged`` in the ``query_logs`` file
 
 ## Overview
 
